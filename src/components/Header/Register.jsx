@@ -62,7 +62,7 @@ const Register = () => {
 
   return (
     <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl mx-auto m-20">
-      <h1 className="text-xl mx-auto font-bold">Registration Now</h1>
+      <h1 className="text-xl mx-auto font-bold">Register now!</h1>
       <div className="card-body">
         <form onSubmit={handalRegister}>
           <fieldset className="fieldset">
@@ -145,13 +145,13 @@ const Register = () => {
                 ></path>
               </g>
             </svg>
-            Registration with Google
+            Register with Google
           </button>
         </div>
 
         <div>
           <p>
-            Already have an account? <Link to="/login">Login </Link>
+            Already have an account? <Link to="/login">Login Now</Link>
           </p>
         </div>
       </div>

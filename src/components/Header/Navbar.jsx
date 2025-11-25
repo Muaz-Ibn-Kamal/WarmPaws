@@ -84,7 +84,7 @@ const Navbar = () => {
 
         {/* Logo / Title */}
         <Link to="/" className="flex items-center">
-          <p className="btn btn-ghost text-xl md:text-2xl font-bold text-blue-500">
+          <p className="btn btn-ghost text-xl md:text-2xl font-bold text-gray-950">
             WarmPaws
           </p>
         </Link>

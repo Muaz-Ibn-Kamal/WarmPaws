@@ -49,7 +49,7 @@ const Footer = () => {
         <aside>
           <p>
             Copyright © {new Date().getFullYear()} - All right reserved by
-            WarmPaws – Pet Care in Winter
+            WarmPaws 
           </p>
         </aside>
       </footer>

@@ -8,7 +8,7 @@ import {
   signInWithPopup,
   signOut,
 } from "firebase/auth";
-import { auth } from "../Firebase.init";
+import { auth } from "../firebase.config.js";
 import { AuthContext } from "./AouthContex";
 
 const AuthProvider = ({ children }) => {
