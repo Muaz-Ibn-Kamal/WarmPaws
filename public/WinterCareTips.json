@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Keep Pets Warm Indoors",
+    "image": "https://i.ibb.co/khmdZ9N/pet-warm-blanket.jpg",
+    "description": "Cold weather can be dangerous for pets. Keep them indoors as much as possible and provide a warm, cozy bed away from cold floors or drafts.",
+    "tips": [
+      "Use thick blankets or heated pet pads for extra warmth.",
+      "Keep your pet’s bed off the cold floor and near warm areas.",
+      "Close windows and doors to block cold air drafts.",
+      "Dress small or short-haired pets in soft sweaters or jackets.",
+      "Never let pets sleep directly on cold tiles or concrete.",
+      "Provide an insulated shelter for outdoor pets if necessary.",
+      "Check the room temperature to ensure it’s comfortable for them."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Protect Paws from Ice and Salt",
+    "image": "https://i.ibb.co/ThfMyZk/dog-boots.jpg",
+    "description": "Snow, ice, and salt can damage your pet’s paw pads. Always protect their paws during winter walks.",
+    "tips": [
+      "Use pet-safe boots to protect paws from ice and chemicals.",
+      "Trim the fur between paw pads to prevent ice buildup.",
+      "Wipe paws with a warm, damp cloth after outdoor walks.",
+      "Apply pet paw balm before heading outside.",
+      "Avoid walking on salted roads or icy sidewalks.",
+      "Check paws for cracks or irritation daily.",
+      "Dry their paws thoroughly to prevent infections."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Avoid Frostbite and Hypothermia",
+    "image": "https://i.ibb.co/NZ4LHK1/cat-cold.jpg",
+    "description": "Never leave pets outside for long periods in freezing temperatures. Watch for early signs of frostbite or shivering.",
+    "tips": [
+      "Limit outdoor time to just a few minutes during extreme cold.",
+      "Wrap your pet in a warm towel if they start shivering.",
+      "Check ears, paws, and tails for pale or bluish skin (signs of frostbite).",
+      "Never bathe your pet in cold water during winter.",
+      "Dry your pet completely if they get wet from snow.",
+      "Provide a cozy blanket immediately after walks.",
+      "Call a vet if your pet seems weak or disoriented from the cold."
+    ]
+  }
+]

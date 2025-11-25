@@ -1,0 +1,18 @@
+.heroSwiper {
+  width: 100%;
+  height: auto;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #1e40af; 
+  font-weight: bold;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #3b82f6;
+}
+
+body {
+  background: linear-gradient(to bottom, #e0f2fe, #f0f9ff);
+}
