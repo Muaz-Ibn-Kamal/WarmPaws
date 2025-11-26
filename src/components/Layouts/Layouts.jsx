@@ -1,26 +1,28 @@
 import Navbar from "../Header/Navbar";
 import { Outlet } from "react-router";
 import Footer from "../Footer/Footer";
-
 import { Toaster } from "react-hot-toast";
 
-
-
 const Layouts = () => {
- 
   return (
-    <div className="bg-blue-50 w-11/12 flex-col mx-auto">
+    <div className="bg-blue-50 min-h-screen flex flex-col">
+      {/* Global Toast Notifications */}
       <Toaster position="top-center" reverseOrder={false} />
-      <header className=" mx-auto bg-blue-50 flex-1">
-        <Navbar></Navbar>
+
+      {/* Header */}
+      <header>
+        <Navbar />
       </header>
-      <main className="bg-blue-50 flex-1">
-        <Outlet></Outlet>
+
+      {/* Main Content */}
+      <main className="flex-1 w-full">
+        <Outlet />
       </main>
-      <footer className="bg-blue-50 flex-1">
-        <Footer></Footer>
+
+      {/* Footer */}
+      <footer>
+        <Footer />
       </footer>
-      <Toaster />
     </div>
   );
 };

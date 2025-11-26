@@ -52,7 +52,7 @@ const ViewDetails = () => {
           type="text"
           name="name"
           className="input input-bordered"
-          placeholder="Enter your name"
+          placeholder="Enter your Name"
           required
           value={name}
           onChange={(e) => setName(e.target.value)}
